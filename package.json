@@ -1,0 +1,9 @@
+{
+    "name": "com.mnuinteractive.rootdebugvisuals",
+    "version": "1.0.0",
+    "displayName": "Root Debug Visuals",
+    "description": "Simple debug visuals for empty root game objects on the scene",
+    "dependencies": {
+    }
+  }
+  
